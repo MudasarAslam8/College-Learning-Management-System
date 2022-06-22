@@ -83,6 +83,7 @@ Database Name is College
 10. Teacher Attendance
 11. Teacher Register
 12. Login
+![Screenshot (105)](https://user-images.githubusercontent.com/94278051/175057800-5fbd21d9-505a-474f-a758-4264b19a0f1d.png)
 # Conclusion
 Our overview of  College Learning management systems helped us to identify the software requirements specifications for a new LMS. These requirements include developing a system using Visual Studio and SQL server. Visual Studio has numerous advantages as it enhances performance through early binding, just-in-time functions, caching and native optimization. It also makes it easier for simple tasks like client authentication and submission of forms. We implemented the identified requirements in a new CLMS. We described CLMS, its design, and features, in detail. Our CLMS has several advantages. Finally, we identified the main areas in which CLMS could be improved. Some of these areas included enhancing the security features of CLMS adding forums, integration with social media and enabling notifications or message alerts. Other improvement suggestions were the inclusion of blended learning, gamification and video conferencing. 
 
